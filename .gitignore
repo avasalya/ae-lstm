@@ -1,8 +1,11 @@
 #CUSTOM
-dataAE
+data*
+vae/
 Torobo*
 .DS_Store
 model*
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
